@@ -79,3 +79,11 @@ nav ul li a {
 	background-image: url(../img/profesor_9.jpg);
 	width: 100%;
 }
+
+/* Location */
+.map {
+	width: 400px;
+	height: 250px;
+	border: 0;
+	float: right;
+}
